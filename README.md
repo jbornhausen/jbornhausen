@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Juliana
+# Olá! Eu sou a Juliana
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas - UNIVALI  
 🎨 Pós-graduada em UI/UX Design  
@@ -7,18 +7,18 @@
 
 ---
 
-## 🛠 Tecnologias
+## Tecnologias
 - HTML5
 - CSS3
 - JavaScript
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 Tenho interesse em desenvolvimento front-end, unindo conhecimentos de programação com design de interfaces (UI/UX), buscando criar experiências intuitivas e funcionais para o usuário.
 
 ---
 
-## 📈 Objetivo
+## Objetivo
 Evoluir como desenvolvedora front-end e construir projetos práticos que demonstrem minhas habilidades técnicas e de design.
 

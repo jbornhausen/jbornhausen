@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Juliana
 
-<!--
-**jbornhausen/jbornhausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas - UNIVALI  
+🎨 Pós-graduada em UI/UX Design  
+🚀 Estagiária na 3Neuron (consultoria e tecnologia)  
+🌍 Inglês fluente  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 💡 Sobre mim
+Tenho interesse em desenvolvimento front-end, unindo conhecimentos de programação com design de interfaces (UI/UX), buscando criar experiências intuitivas e funcionais para o usuário.
+
+---
+
+## 📈 Objetivo
+Evoluir como desenvolvedora front-end e construir projetos práticos que demonstrem minhas habilidades técnicas e de design.
+
